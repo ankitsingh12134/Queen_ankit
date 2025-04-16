@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+ZInYo4WtbRU0NzU1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+ZInYo4WtbRU0NzU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+BB_GT0abfOQ3ZWQ1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+BB_GT0abfOQ3ZWQ1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -83,16 +83,16 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/c20scc.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/k17l19.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/k17l19.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/k17l19.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/k17l19.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/k17l19.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/k17l19.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/k17l19.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/k17l19.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/k17l19.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/k17l19.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/c20scc.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/c20scc.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/c20scc.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/c20scc.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/c20scc.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/c20scc.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/c20scc.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/c20scc.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/c20scc.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/c20scc.jpg"
 
 
 def time_to_seconds(time):
